@@ -1,3 +1,6 @@
+// add to this a button that opens a dialog box that gives an overview of 
+// markdown usage.
+
 const addBtn = document.getElementById('add')
 
 const notes = JSON.parse(localStorage.getItem('notes'))
